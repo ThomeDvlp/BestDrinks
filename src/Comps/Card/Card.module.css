@@ -1,0 +1,30 @@
+.cardMaster {
+    display: grid;
+    grid-template-rows: [titleSearch] [imgCard] [nameCard];
+    align-items: center;
+    justify-content: center;
+    gap: 1em;
+    }
+
+.titleSearch {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: bold;
+}
+.nameCard{
+    font-family: 'Bilbo Swash Caps', cursive;
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 1em;
+    color: #5C0511;
+}
+
+.imgCard {
+    size: 200px;
+    background-size: cover;
+    border-radius: 30%;
+}
+
+
+    
+

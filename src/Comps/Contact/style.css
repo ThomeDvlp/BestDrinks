@@ -1,0 +1,29 @@
+.contact__title {
+    text-align: center;
+}
+
+#grid-contact {
+    display: grid;
+    
+}
+.contact-content {
+    display: grid;
+    width: 80%;
+    justify-self: center;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+    /* grid-template-areas: 
+    "contact_img contact_form"; */
+    height: calc(100vh-50px);
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+
+}
+
+.contact_img {
+     width:auto;
+    background-size:cover;
+    grid-column-start: 1;
+    grid-column-end: 2;
+}

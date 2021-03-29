@@ -1,0 +1,14 @@
+.mainBody {
+    background-image: url('../../assets/alchoolFreeCrop.jpg');
+    background-position: center center;
+    background-size:cover;
+
+}
+
+.mainLogo{
+    font-size:100px;
+    margin-top:40px;
+    text-align:center;
+    font-family:'Bilbo Swash Caps', cursive;
+    color:#5C0511;
+}

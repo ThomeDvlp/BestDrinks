@@ -1,0 +1,16 @@
+.SearchApi{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.buttonApi{
+    border-radius:7px;
+    height:40px;
+    width: 90px;
+    font-family:'Open Sans Condensed', sans-serif;
+    font-weight:bold;
+    color: #5C0511;
+    margin-bottom: 1em;
+    background-color: antiquewhite;
+}

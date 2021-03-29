@@ -1,0 +1,12 @@
+.FormContato {
+    display: grid;
+    grid-template-columns: 2;
+    grid-template-rows: 4;
+    
+}
+
+.button {
+    margin-left:auto;
+    width:50%;
+
+}
